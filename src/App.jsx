@@ -85,7 +85,7 @@ const Contact = () => (
     <h2 style={sectionTitle}>Contact</h2>
     <p style={{ color: '#6B7280' }}>
       You can reach me at:
-      <a href="mailto:your.email@example.com" style={{ color: '#2563EB', textDecoration: 'underline', marginLeft: '0.25rem' }}>your.email@example.com</a>
+      <a href="bdragojlovicsegvic@gmail.com" style={{ color: '#2563EB', textDecoration: 'underline', marginLeft: '0.25rem' }}>your.email@example.com</a>
     </p>
   </div>
 );
